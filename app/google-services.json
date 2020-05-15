@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "150645093706",
+    "firebase_url": "https://internsalaassignmentprojects.firebaseio.com",
+    "project_id": "internsalaassignmentprojects",
+    "storage_bucket": "internsalaassignmentprojects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150645093706:android:b4079411c8b572ab78bdb3",
+        "android_client_info": {
+          "package_name": "com.example.internsalaassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150645093706-eoqq37ccga65gvak9mnadiaj4084gfqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8XuYTPt83SckYGLeekIQnOz5u8Nw_pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150645093706-eoqq37ccga65gvak9mnadiaj4084gfqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150645093706:android:d72fa7a424dbef8478bdb3",
+        "android_client_info": {
+          "package_name": "com.example.newshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150645093706-eoqq37ccga65gvak9mnadiaj4084gfqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8XuYTPt83SckYGLeekIQnOz5u8Nw_pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150645093706-eoqq37ccga65gvak9mnadiaj4084gfqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
